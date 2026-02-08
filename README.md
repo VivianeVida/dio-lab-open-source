@@ -103,6 +103,24 @@ Aprender o básico sobre contribuição no GitHub.
 9. Push changes to your remote repository `git push origin feat/community/yourusername`; 
 10. Create a **Pull Request**.
 
+
+    [![DIO](https://img.shields.io/badge/DIO-Contribua%20Aqui-brightgreen?style=for-the-badge&logo=dio&logoColor=white)](https://www.dio.me)
+
+## 🚀 PASSOS RÁPIDOS (Copie e Cole)
+
+| Passo | Comando |
+|-------|---------|
+| **1️⃣ Fork** | Clique "Fork" no GitHub |
+| **2️⃣ Clone** | `git clone SEU_FORK_URL` |
+| **3️⃣ Branch** | `git checkout -b feat/community/SEU_USERNAME` |
+| **4️⃣ Arquivo** | Crie `community/SEU_USERNAME.md` |
+| **5️⃣ Add** | `git add community/SEU_USERNAME.md` |
+| **6️⃣ Commit** | `git commit -m "feat: add SEU_USERNAME profile"` |
+| **7️⃣ Push** | `git push origin feat/community/SEU_USERNAME` |
+| **8️⃣ PR** | Crie Pull Request |
+
+---
+
 ### Utilitários
 
 [![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/badges/badges.md)
